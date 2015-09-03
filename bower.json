@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "emitter": "*"
+    "emitter": "1.2.0"
   },
   "development": {},
   "scripts": [
